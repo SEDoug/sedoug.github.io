@@ -1,2 +1,2 @@
 TEST FILE CONTAINING TEXT
-Update #2
+Update #3
